@@ -4,7 +4,7 @@ To understand the code, Please check this video: https://youtu.be/ROn1_O2zEtk
 
 Steps Performed:
 
-1- Train yolov5 model
+1- Train your yolov5 model
 
 2- Convert yolov5 (.pt model) into a tensorflow model(.pb file)
 
